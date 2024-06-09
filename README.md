@@ -37,14 +37,6 @@ The project addresses the challenge of sentiment analysis in Marathi text, deali
 3. Extracted tweet data and eliminated unnecessary symbols.
 4. Altered the architecture using a pre-trained model.
 
-## Results
-
-The model's performance metrics are as follows:
-- **Validation Recall**: 76%
-- **F1 Score**: 75%
-- **Precision**: 74%
-- **Accuracy Score**: 75%
-
 ## Limitations
 
 - **Limited Resources**: There aren't many tools and data available for understanding Marathi sentiment, which can make it harder to build accurate models.
